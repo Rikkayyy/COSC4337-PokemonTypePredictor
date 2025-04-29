@@ -38,6 +38,3 @@ This project predicts a Pokémon’s type(s) using a combination of base stat di
 3. Dataset should be placed in the working directory or correctly referenced inside the notebook.
 
 ---
-
-Would you also like a second, even **shorter "minimal version"** if you want something super compact too? (depends on the tone you want for your GitHub). 🎯  
-If so, I can send that next.
