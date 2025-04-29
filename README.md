@@ -1,5 +1,3 @@
-Perfect! Here's a clean, professional **README.md** you can use for your GitHub repository:
-
 ---
 
 # Pokémon Type Prediction
